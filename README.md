@@ -12,7 +12,7 @@ I'm Maxi Ferreira, a software engineer and professional overthinker. I write abo
 - [Shrinking Bundles, Expanding Forests](https://www.maxiferreira.com/blog/shrinking-bundles/)
 - [Delicious Donut Components](https://frontendatscale.com/blog/donut-components/)
 - [How Deep is Your DOM?](https://frontendatscale.com/blog/how-deep-is-your-dom/)
-- [The Least Worst Architecture](https://frontendatscale.com/issues/20/)
+- [Just Enough Architecture](https://frontendatscale.com/issues/13/)
 
 More essays at [Frontend at Scale](https://frontendatscale.com/) and personal posts on [my blog](https://maxiferreira.com).
 
