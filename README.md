@@ -9,7 +9,8 @@ I'm Maxi Ferreira, a software engineer and professional overthinker. I write abo
 ## Featured writing
 
 - [An Interactive Guide to TanStack DB](https://frontendatscale.com/blog/tanstack-db/)
-- [May I Interest You In a Modular Monolith?](https://frontendatscale.com/issues/45/)
+- [Shrinking Bundles, Expanding Forests](https://www.maxiferreira.com/blog/shrinking-bundles/)
+- [Delicious Donut Components](https://frontendatscale.com/blog/donut-components/)
 - [How Deep is Your DOM?](https://frontendatscale.com/blog/how-deep-is-your-dom/)
 - [The Least Worst Architecture](https://frontendatscale.com/issues/20/)
 
